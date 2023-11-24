@@ -1,2 +1,2 @@
 # Meu_Portfolio
-Site desenvolvido para avaliação G2 de Front-end.
+Portfólio em formato de site contando um pouco sobre mim e meus objetivos profissionais.
